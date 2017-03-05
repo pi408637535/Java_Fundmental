@@ -5,11 +5,11 @@ package com.it.train;
  */
 
 /**
- *  ÉúÃüÖÜÆÚ
- *  ÀàµÄÉúÃüÖÜÆÚ£º¼ÓÔØ--Á¬½Ó--³õÊ¼»¯--Ê¹ÓÃ--Ð¶ÔØ
- *  final¹Ø¼ü×ÖµÄ×÷ÓÃ£ºÔö¼Ó¾Ö²¿±äÁ¿µÄÉú´æÖÜÆÚ£¬
- *      ÈçºÎÔö¼ÓµÄ£ºÔÚÄÚ´æÖÐ¿½±´Ò»·Ý£¬Ò»Ä£Ò»ÑùµÄ¾Ö²¿±äÁ¿£¬·ÅÄÚ²¿Àà·ÃÎÊÊ±£¬·ÃÎÊ¿½±´Àà¾ÍÐÐ£¬
- *      ÒòÎªÊÇ¿½±´µÄ±äÁ¿£¬ËùÒÔÄÚ²¿Àà²»ÄÜÐÞ¸Äfinal±äÁ¿µÄÖµ¡£
+ *  ç”Ÿå‘½å‘¨æœŸ
+ *  ç±»çš„ç”Ÿå‘½å‘¨æœŸï¼šåŠ è½½--è¿žæŽ¥--åˆå§‹åŒ–--ä½¿ç”¨--å¸è½½
+ *  finalå…³é”®å­—çš„ä½œç”¨ï¼šå¢žåŠ å±€éƒ¨å˜é‡çš„ç”Ÿå­˜å‘¨æœŸï¼Œ
+ *      å¦‚ä½•å¢žåŠ çš„ï¼šåœ¨å†…å­˜ä¸­æ‹·è´ä¸€ä»½ï¼Œä¸€æ¨¡ä¸€æ ·çš„å±€éƒ¨å˜é‡ï¼Œæ”¾å†…éƒ¨ç±»è®¿é—®æ—¶ï¼Œè®¿é—®æ‹·è´ç±»å°±è¡Œï¼Œ
+ *      å› ä¸ºæ˜¯æ‹·è´çš„å˜é‡ï¼Œæ‰€ä»¥å†…éƒ¨ç±»ä¸èƒ½ä¿®æ”¹finalå˜é‡çš„å€¼ã€‚
  * */
 public class Example2 extends Thread{
     public void mRun(final String name){

@@ -4,11 +4,11 @@ package com.it.train;
  * Created by 55 on 2016/6/11.
  */
 /**
- *  Object equals()Óë== Çø±ð
- *  ÓÐÊ±Àà»áÖØÐ´equals·½·¨
- *  »ù±¾ÀàÐÍµÄ±äÁ¿ºÍ¶ÔÏóµÄÒýÓÃ±äÁ¿£¬¶¼ÊÇÔÚº¯ÊýµÄÕ»ÄÚ´æ·ÖÅä
- *  ¶ÑÄÚ´æÔò´æ·Ånew³öÀ´µÄ¶ÔÏóºÍÊý×é
- *  ³£Á¿³Ø ´æ·Å³£Á¿
+ *  Object equals()ä¸Ž== åŒºåˆ«
+ *  æœ‰æ—¶ç±»ä¼šé‡å†™equalsæ–¹æ³•
+ *  åŸºæœ¬ç±»åž‹çš„å˜é‡å’Œå¯¹è±¡çš„å¼•ç”¨å˜é‡ï¼Œéƒ½æ˜¯åœ¨å‡½æ•°çš„æ ˆå†…å­˜åˆ†é…
+ *  å †å†…å­˜åˆ™å­˜æ”¾newå‡ºæ¥çš„å¯¹è±¡å’Œæ•°ç»„
+ *  å¸¸é‡æ±  å­˜æ”¾å¸¸é‡
  * */
 public class Example1 {
     static public void main(String[] args) {

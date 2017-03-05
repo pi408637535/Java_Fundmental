@@ -7,8 +7,8 @@ package com.it.train;
 import java.util.HashSet;
 
 /**
- * ×öÊµÑéequals()ºÍhashcodeµÄÀí½â
- * ÏÈ×öÁËÒ»¸öÊµÑé£ºifÅĞ¶ÏµÄË³ĞòÊÇ´Ó×ó---> ÓÒµÄ
+ * åšå®éªŒequals()å’Œhashcodeçš„ç†è§£
+ * å…ˆåšäº†ä¸€ä¸ªå®éªŒï¼šifåˆ¤æ–­çš„é¡ºåºæ˜¯ä»å·¦---> å³çš„
  */
 public class Example4 {
     static public void main(String[] args) {
